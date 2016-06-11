@@ -1,0 +1,18 @@
+[ 2016-06-03T17:26:45+08:00 ] 127.0.0.1 /index.php/Home/User/style/base.css
+ERR: 非法操作:style
+
+[ 2016-06-03T17:26:45+08:00 ] 127.0.0.1 /index.php/Home/User/style/global.css
+ERR: 非法操作:style
+
+[ 2016-06-03T17:26:45+08:00 ] 127.0.0.1 /index.php/Home/User/style/footer.css
+ERR: 非法操作:style
+
+[ 2016-06-03T17:26:45+08:00 ] 127.0.0.1 /index.php/Home/User/style/login.css
+ERR: 非法操作:style
+
+[ 2016-06-03T17:26:45+08:00 ] 127.0.0.1 /index.php/Home/User/style/header.css
+ERR: 非法操作:style
+
+[ 2016-06-03T22:42:53+08:00 ] 127.0.0.1 /index.php/Home/User/%7BU('register')%7D
+ERR: 非法操作:{U('register')}
+

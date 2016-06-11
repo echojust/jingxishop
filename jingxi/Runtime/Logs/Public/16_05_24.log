@@ -1,0 +1,697 @@
+[ 2016-05-24T21:16:52+08:00 ] 127.0.0.1 /Public/Admin/style/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000850s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000955s ]
+ERR: 无法加载控制器:Admin
+
+[ 2016-05-24T21:20:09+08:00 ] 127.0.0.1 /Public/Admin/style/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000817s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001388s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001563s ]
+ERR: 无法加载控制器:Admin
+
+[ 2016-05-24T21:29:57+08:00 ] 127.0.0.1 /Public/Admin/style/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001003s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001115s ]
+ERR: 无法加载控制器:Admin
+
+[ 2016-05-24T21:30:47+08:00 ] 127.0.0.1 /Public/Admin/style/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000811s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000918s ]
+ERR: 无法加载控制器:Admin
+
+[ 2016-05-24T21:32:13+08:00 ] 127.0.0.1 /Public/Admin/style/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001219s ]
+ERR: 无法加载控制器:Admin
+
+[ 2016-05-24T21:34:29+08:00 ] 127.0.0.1 /Public/Admin/style/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000837s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000938s ]
+ERR: 无法加载控制器:Admin
+
+[ 2016-05-24T21:35:40+08:00 ] 127.0.0.1 /Public/Admin/style/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000813s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000922s ]
+ERR: 无法加载控制器:Admin
+
+[ 2016-05-24T21:56:20+08:00 ] 127.0.0.1 /Public/Admin/style/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000758s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001186s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001598s ]
+ERR: 无法加载控制器:Admin
+
+[ 2016-05-24T22:26:57+08:00 ] 127.0.0.1 /Public/Admin/images/main_62.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000846s ]
+
+[ 2016-05-24T22:26:57+08:00 ] 127.0.0.1 /Public/Admin/images/main_60.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001385s ]
+
+[ 2016-05-24T22:26:57+08:00 ] 127.0.0.1 /Public/Admin/images/main_54.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004391s ]
+
+[ 2016-05-24T22:26:57+08:00 ] 127.0.0.1 /Public/Admin/images/main_58.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001516s ]
+
+[ 2016-05-24T22:26:57+08:00 ] 127.0.0.1 /Public/Admin/images/main_56.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000938s ]
+
+[ 2016-05-24T22:27:02+08:00 ] 127.0.0.1 /Public/Admin/images/main_54.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000838s ]
+
+[ 2016-05-24T22:27:02+08:00 ] 127.0.0.1 /Public/Admin/images/main_58.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001936s ]
+
+[ 2016-05-24T22:27:02+08:00 ] 127.0.0.1 /Public/Admin/images/main_60.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+
+[ 2016-05-24T22:27:02+08:00 ] 127.0.0.1 /Public/Admin/images/main_56.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000771s ]
+
+[ 2016-05-24T22:27:02+08:00 ] 127.0.0.1 /Public/Admin/images/main_62.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+
+[ 2016-05-24T22:28:12+08:00 ] 127.0.0.1 /Public/Admin/images/main_54.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001073s ]
+
+[ 2016-05-24T22:28:12+08:00 ] 127.0.0.1 /Public/Admin/images/main_56.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000850s ]
+
+[ 2016-05-24T22:28:12+08:00 ] 127.0.0.1 /Public/Admin/images/main_58.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+
+[ 2016-05-24T22:28:12+08:00 ] 127.0.0.1 /Public/Admin/images/main_60.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000761s ]
+
+[ 2016-05-24T22:28:12+08:00 ] 127.0.0.1 /Public/Admin/images/main_62.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000791s ]
+
+[ 2016-05-24T22:28:31+08:00 ] 127.0.0.1 /Public/Admin/images/main_54.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000767s ]
+
+[ 2016-05-24T22:28:31+08:00 ] 127.0.0.1 /Public/Admin/images/main_56.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000804s ]
+
+[ 2016-05-24T22:28:31+08:00 ] 127.0.0.1 /Public/Admin/images/main_58.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+
+[ 2016-05-24T22:28:31+08:00 ] 127.0.0.1 /Public/Admin/images/main_62.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000767s ]
+
+[ 2016-05-24T22:28:31+08:00 ] 127.0.0.1 /Public/Admin/images/main_60.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000838s ]
+
+[ 2016-05-24T22:28:55+08:00 ] 127.0.0.1 /Public/Admin/images/main_54.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+
+[ 2016-05-24T22:32:04+08:00 ] 127.0.0.1 /Public/Admin/images/main_54.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001954s ]
+
+[ 2016-05-24T22:32:04+08:00 ] 127.0.0.1 /Public/Admin/images/main_56.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000764s ]
+
+[ 2016-05-24T22:32:04+08:00 ] 127.0.0.1 /Public/Admin/images/main_58.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000905s ]
+
+[ 2016-05-24T22:32:04+08:00 ] 127.0.0.1 /Public/Admin/images/main_62.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000882s ]
+
+[ 2016-05-24T22:32:04+08:00 ] 127.0.0.1 /Public/Admin/images/main_60.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+
+[ 2016-05-24T22:32:08+08:00 ] 127.0.0.1 /Public/Admin/images/main_54.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+
+[ 2016-05-24T22:32:08+08:00 ] 127.0.0.1 /Public/Admin/images/main_56.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000776s ]
+
+[ 2016-05-24T22:32:08+08:00 ] 127.0.0.1 /Public/Admin/images/main_62.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000816s ]
+
+[ 2016-05-24T22:32:08+08:00 ] 127.0.0.1 /Public/Admin/images/main_58.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000790s ]
+
+[ 2016-05-24T22:32:08+08:00 ] 127.0.0.1 /Public/Admin/images/main_60.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000838s ]
+
+[ 2016-05-24T22:33:10+08:00 ] 127.0.0.1 /Public/Admin/images/main_54.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000816s ]
+
+[ 2016-05-24T22:33:10+08:00 ] 127.0.0.1 /Public/Admin/images/main_58.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000827s ]
+
+[ 2016-05-24T22:33:10+08:00 ] 127.0.0.1 /Public/Admin/images/main_56.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000814s ]
+
+[ 2016-05-24T22:33:10+08:00 ] 127.0.0.1 /Public/Admin/images/main_60.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000859s ]
+
+[ 2016-05-24T22:33:10+08:00 ] 127.0.0.1 /Public/Admin/images/main_62.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+
+[ 2016-05-24T22:33:35+08:00 ] 127.0.0.1 /Public/Admin/images/main_56.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+
+[ 2016-05-24T22:33:35+08:00 ] 127.0.0.1 /Public/Admin/images/main_54.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+
+[ 2016-05-24T22:33:35+08:00 ] 127.0.0.1 /Public/Admin/images/main_58.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000833s ]
+
+[ 2016-05-24T22:33:35+08:00 ] 127.0.0.1 /Public/Admin/images/main_60.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+
+[ 2016-05-24T22:33:35+08:00 ] 127.0.0.1 /Public/Admin/images/main_62.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000625s ]
+
+[ 2016-05-24T22:34:08+08:00 ] 127.0.0.1 /Public/Admin/images/main_58.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000805s ]
+
+[ 2016-05-24T22:34:08+08:00 ] 127.0.0.1 /Public/Admin/images/main_56.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000827s ]
+
+[ 2016-05-24T22:34:08+08:00 ] 127.0.0.1 /Public/Admin/images/main_54.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000813s ]
+
+[ 2016-05-24T22:34:08+08:00 ] 127.0.0.1 /Public/Admin/images/main_60.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000852s ]
+
+[ 2016-05-24T22:34:08+08:00 ] 127.0.0.1 /Public/Admin/images/main_62.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000842s ]
+
+[ 2016-05-24T22:37:06+08:00 ] 127.0.0.1 /Public/Admin/images/main_54.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001211s ]
+
+[ 2016-05-24T22:37:06+08:00 ] 127.0.0.1 /Public/Admin/images/main_62.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000862s ]
+
+[ 2016-05-24T22:37:06+08:00 ] 127.0.0.1 /Public/Admin/images/main_56.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000875s ]
+
+[ 2016-05-24T22:37:06+08:00 ] 127.0.0.1 /Public/Admin/images/main_58.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000867s ]
+
+[ 2016-05-24T22:37:06+08:00 ] 127.0.0.1 /Public/Admin/images/main_60.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001945s ]
+
+[ 2016-05-24T22:44:52+08:00 ] 127.0.0.1 /Public/Admin/images/main_54.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000761s ]
+
+[ 2016-05-24T22:44:52+08:00 ] 127.0.0.1 /Public/Admin/images/main_58.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000918s ]
+
+[ 2016-05-24T22:44:52+08:00 ] 127.0.0.1 /Public/Admin/images/main_62.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000971s ]
+
+[ 2016-05-24T22:44:52+08:00 ] 127.0.0.1 /Public/Admin/images/main_56.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001315s ]
+
+[ 2016-05-24T22:44:52+08:00 ] 127.0.0.1 /Public/Admin/images/main_60.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000907s ]
+
+[ 2016-05-24T22:55:45+08:00 ] 127.0.0.1 /Public/Admin/images/main_56.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000873s ]
+
+[ 2016-05-24T22:55:45+08:00 ] 127.0.0.1 /Public/Admin/images/main_58.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001079s ]
+
+[ 2016-05-24T22:55:45+08:00 ] 127.0.0.1 /Public/Admin/images/main_54.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000820s ]
+
+[ 2016-05-24T22:55:45+08:00 ] 127.0.0.1 /Public/Admin/images/main_62.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001178s ]
+
+[ 2016-05-24T22:55:45+08:00 ] 127.0.0.1 /Public/Admin/images/main_60.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000896s ]
+
+[ 2016-05-24T22:56:49+08:00 ] 127.0.0.1 /Public/Admin/images/main_56.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000967s ]
+
+[ 2016-05-24T22:56:49+08:00 ] 127.0.0.1 /Public/Admin/images/main_54.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+
+[ 2016-05-24T22:56:49+08:00 ] 127.0.0.1 /Public/Admin/images/main_62.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000769s ]
+
+[ 2016-05-24T22:56:49+08:00 ] 127.0.0.1 /Public/Admin/images/main_60.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000868s ]
+
+[ 2016-05-24T22:56:49+08:00 ] 127.0.0.1 /Public/Admin/images/main_58.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000818s ]
+
+[ 2016-05-24T23:02:43+08:00 ] 127.0.0.1 /Public/Admin/images/main_58.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000783s ]
+
+[ 2016-05-24T23:02:43+08:00 ] 127.0.0.1 /Public/Admin/images/main_56.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000823s ]
+
+[ 2016-05-24T23:02:43+08:00 ] 127.0.0.1 /Public/Admin/images/main_62.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000880s ]
+
+[ 2016-05-24T23:02:43+08:00 ] 127.0.0.1 /Public/Admin/images/main_54.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000829s ]
+
+[ 2016-05-24T23:02:43+08:00 ] 127.0.0.1 /Public/Admin/images/main_60.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000740s ]
+
+[ 2016-05-24T23:19:13+08:00 ] 127.0.0.1 /Public/Admin/images/main_54.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000827s ]
+
+[ 2016-05-24T23:19:13+08:00 ] 127.0.0.1 /Public/Admin/images/main_56.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000893s ]
+
+[ 2016-05-24T23:19:13+08:00 ] 127.0.0.1 /Public/Admin/images/main_58.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000788s ]
+
+[ 2016-05-24T23:19:13+08:00 ] 127.0.0.1 /Public/Admin/images/main_60.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000948s ]
+
+[ 2016-05-24T23:19:13+08:00 ] 127.0.0.1 /Public/Admin/images/main_62.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+
+[ 2016-05-24T23:20:12+08:00 ] 127.0.0.1 /Public/Admin/images/main_54.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000868s ]
+
+[ 2016-05-24T23:20:12+08:00 ] 127.0.0.1 /Public/Admin/images/main_58.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000780s ]
+
+[ 2016-05-24T23:20:12+08:00 ] 127.0.0.1 /Public/Admin/images/main_60.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+
+[ 2016-05-24T23:20:12+08:00 ] 127.0.0.1 /Public/Admin/images/main_56.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000921s ]
+
+[ 2016-05-24T23:20:12+08:00 ] 127.0.0.1 /Public/Admin/images/main_62.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000868s ]
+
+[ 2016-05-24T23:20:34+08:00 ] 127.0.0.1 /Public/Admin/images/main_58.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000935s ]
+
+[ 2016-05-24T23:20:34+08:00 ] 127.0.0.1 /Public/Admin/images/main_54.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000762s ]
+
+[ 2016-05-24T23:20:34+08:00 ] 127.0.0.1 /Public/Admin/images/main_60.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000890s ]
+
+[ 2016-05-24T23:20:34+08:00 ] 127.0.0.1 /Public/Admin/images/main_56.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000851s ]
+
+[ 2016-05-24T23:20:34+08:00 ] 127.0.0.1 /Public/Admin/images/main_62.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000740s ]
+
+[ 2016-05-24T23:26:18+08:00 ] 127.0.0.1 /Public/Admin/images/main_56.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+
+[ 2016-05-24T23:26:18+08:00 ] 127.0.0.1 /Public/Admin/images/main_54.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000788s ]
+
+[ 2016-05-24T23:26:18+08:00 ] 127.0.0.1 /Public/Admin/images/main_58.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000763s ]
+
+[ 2016-05-24T23:26:18+08:00 ] 127.0.0.1 /Public/Admin/images/main_60.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+
+[ 2016-05-24T23:26:18+08:00 ] 127.0.0.1 /Public/Admin/images/main_62.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000851s ]
+
+[ 2016-05-24T23:27:20+08:00 ] 127.0.0.1 /Public/Admin/images/main_56.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+
+[ 2016-05-24T23:27:20+08:00 ] 127.0.0.1 /Public/Admin/images/main_62.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000767s ]
+
+[ 2016-05-24T23:27:20+08:00 ] 127.0.0.1 /Public/Admin/images/main_54.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+
+[ 2016-05-24T23:27:20+08:00 ] 127.0.0.1 /Public/Admin/images/main_58.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+
+[ 2016-05-24T23:27:20+08:00 ] 127.0.0.1 /Public/Admin/images/main_60.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006308s ]
+
+[ 2016-05-24T23:31:11+08:00 ] 127.0.0.1 /Public/Admin/images/main_54.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+
+[ 2016-05-24T23:31:11+08:00 ] 127.0.0.1 /Public/Admin/images/main_56.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+
+[ 2016-05-24T23:31:11+08:00 ] 127.0.0.1 /Public/Admin/images/main_58.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000911s ]
+
+[ 2016-05-24T23:31:11+08:00 ] 127.0.0.1 /Public/Admin/images/main_60.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000849s ]
+
+[ 2016-05-24T23:31:11+08:00 ] 127.0.0.1 /Public/Admin/images/main_62.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000967s ]
+
+[ 2016-05-24T23:31:54+08:00 ] 127.0.0.1 /Public/Admin/images/main_60.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000801s ]
+
+[ 2016-05-24T23:31:54+08:00 ] 127.0.0.1 /Public/Admin/images/main_62.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007084s ]
+
+[ 2016-05-24T23:31:54+08:00 ] 127.0.0.1 /Public/Admin/images/main_58.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+
+[ 2016-05-24T23:31:54+08:00 ] 127.0.0.1 /Public/Admin/images/main_56.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000776s ]
+
+[ 2016-05-24T23:31:54+08:00 ] 127.0.0.1 /Public/Admin/images/main_54.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000919s ]
+
+[ 2016-05-24T23:38:04+08:00 ] 127.0.0.1 /Public/Admin/images/main_54.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+
+[ 2016-05-24T23:38:04+08:00 ] 127.0.0.1 /Public/Admin/images/main_60.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000698s ]
+
+[ 2016-05-24T23:38:04+08:00 ] 127.0.0.1 /Public/Admin/images/main_62.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.006784s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007486s ]
+
+[ 2016-05-24T23:38:04+08:00 ] 127.0.0.1 /Public/Admin/images/main_58.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001092s ]
+
+[ 2016-05-24T23:38:04+08:00 ] 127.0.0.1 /Public/Admin/images/main_56.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001253s ]
+
+[ 2016-05-24T23:38:31+08:00 ] 127.0.0.1 /Public/Admin/images/main_54.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+
+[ 2016-05-24T23:38:31+08:00 ] 127.0.0.1 /Public/Admin/images/main_58.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+
+[ 2016-05-24T23:38:31+08:00 ] 127.0.0.1 /Public/Admin/images/main_62.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000782s ]
+
+[ 2016-05-24T23:38:31+08:00 ] 127.0.0.1 /Public/Admin/images/main_60.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+
+[ 2016-05-24T23:38:31+08:00 ] 127.0.0.1 /Public/Admin/images/main_56.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000893s ]
+
+[ 2016-05-24T23:39:32+08:00 ] 127.0.0.1 /Public/Admin/images/main_54.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+
+[ 2016-05-24T23:39:32+08:00 ] 127.0.0.1 /Public/Admin/images/main_58.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000763s ]
+
+[ 2016-05-24T23:39:32+08:00 ] 127.0.0.1 /Public/Admin/images/main_56.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000777s ]
+
+[ 2016-05-24T23:39:32+08:00 ] 127.0.0.1 /Public/Admin/images/main_60.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000808s ]
+
+[ 2016-05-24T23:39:32+08:00 ] 127.0.0.1 /Public/Admin/images/main_62.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+
+[ 2016-05-24T23:43:31+08:00 ] 127.0.0.1 /Public/Admin/images/main_56.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002389s ]
+
+[ 2016-05-24T23:43:31+08:00 ] 127.0.0.1 /Public/Admin/images/main_62.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000847s ]
+
+[ 2016-05-24T23:43:31+08:00 ] 127.0.0.1 /Public/Admin/images/main_58.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001168s ]
+
+[ 2016-05-24T23:43:31+08:00 ] 127.0.0.1 /Public/Admin/images/main_60.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000863s ]
+

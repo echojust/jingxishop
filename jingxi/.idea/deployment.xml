@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Hzhandou">
+    <serverData>
+      <paths name="Hzhandou">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/jingxi/" local="$PROJECT_DIR$" web="/jingxi/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

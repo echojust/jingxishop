@@ -1,0 +1,36 @@
+[ 2016-06-04T15:16:23+08:00 ] 127.0.0.1 /index.php/Home/Goods/style/list.css
+ERR: 非法操作:style
+
+[ 2016-06-04T15:16:23+08:00 ] 127.0.0.1 /index.php/Home/Goods/js/list.js
+ERR: 非法操作:js
+
+[ 2016-06-04T15:33:48+08:00 ] 127.0.0.1 /index.php/Home/Goods/style/goods.css
+ERR: 非法操作:style
+
+[ 2016-06-04T15:33:48+08:00 ] 127.0.0.1 /index.php/Home/Goods/style/common.css
+ERR: 非法操作:style
+
+[ 2016-06-04T15:33:48+08:00 ] 127.0.0.1 /index.php/Home/Goods/style/jqzoom.css
+ERR: 非法操作:style
+
+[ 2016-06-04T15:33:48+08:00 ] 127.0.0.1 /index.php/Home/Goods/js/goods.js
+ERR: 非法操作:js
+
+[ 2016-06-04T15:33:48+08:00 ] 127.0.0.1 /index.php/Home/Goods/js/jqzoom-core.js
+ERR: 非法操作:js
+
+[ 2016-06-04T15:33:48+08:00 ] 127.0.0.1 /index.php/Home/Goods/style/common.css
+ERR: 非法操作:style
+
+[ 2016-06-04T15:33:48+08:00 ] 127.0.0.1 /index.php/Home/Goods/style/jqzoom.css
+ERR: 非法操作:style
+
+[ 2016-06-04T15:33:48+08:00 ] 127.0.0.1 /index.php/Home/Goods/style/goods.css
+ERR: 非法操作:style
+
+[ 2016-06-04T15:33:48+08:00 ] 127.0.0.1 /index.php/Home/Goods/js/goods.js
+ERR: 非法操作:js
+
+[ 2016-06-04T15:33:48+08:00 ] 127.0.0.1 /index.php/Home/Goods/js/jqzoom-core.js
+ERR: 非法操作:js
+

@@ -1,0 +1,9 @@
+[ 2016-06-02T20:16:13+08:00 ] 127.0.0.1 /index.php/Home/register
+ERR: 无法加载控制器:Register
+
+[ 2016-06-02T20:42:17+08:00 ] 127.0.0.1 /index.php/Home/User/this.src%20+=%20'/'+Math.random()
+ERR: 非法操作:this.src += '
+
+[ 2016-06-02T20:43:39+08:00 ] 127.0.0.1 /index.php/Home/User/VerifyImg'/'+Math.random()
+ERR: 非法操作:VerifyImg'
+

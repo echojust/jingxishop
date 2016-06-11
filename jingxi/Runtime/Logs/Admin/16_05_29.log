@@ -1,0 +1,252 @@
+[ 2016-05-29T10:21:48+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000178s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022206s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022964s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000545s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000626s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000937s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001068s ]
+
+[ 2016-05-29T10:21:48+08:00 ] 127.0.0.1 /index.php/Admin/Index/top.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000101s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000218s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030546s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031356s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000468s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000833s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000921s ]
+
+[ 2016-05-29T10:21:48+08:00 ] 127.0.0.1 /index.php/Admin/Index/center.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000117s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000295s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037478s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038373s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000570s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000704s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001213s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001386s ]
+
+[ 2016-05-29T10:21:48+08:00 ] 127.0.0.1 /index.php/Admin/Index/down.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000116s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000294s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032257s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033252s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000825s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000979s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001514s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001674s ]
+
+[ 2016-05-29T16:12:31+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000179s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023801s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024557s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000788s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000920s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000915s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001012s ]
+
+[ 2016-05-29T16:12:31+08:00 ] 127.0.0.1 /index.php/Admin/Index/top.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000101s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000207s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.043779s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044571s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000475s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000735s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000821s ]
+
+[ 2016-05-29T16:12:31+08:00 ] 127.0.0.1 /index.php/Admin/Index/center.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000181s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064585s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.065666s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000683s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000784s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000960s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001054s ]
+
+[ 2016-05-29T16:12:31+08:00 ] 127.0.0.1 /index.php/Admin/Index/down.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000367s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046836s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047557s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000764s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000882s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000950s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001046s ]
+
+[ 2016-05-29T17:30:17+08:00 ] 127.0.0.1 /index.php/Admin/Goods/tianjia
+ERR: 1366:Incorrect decimal value: '' for column 'goods_price' at row 1
+ [ SQL语句 ] : INSERT INTO `sp_goods` (`goods_name`,`goods_price`,`goods_number`,`goods_weight`,`goods_introduce`,`upd_time`,`add_time`) VALUES ('','','0','0','','1464514217','1464514217')
+
+[ 2016-05-29T17:32:03+08:00 ] 127.0.0.1 /index.php/Admin/Goods/tianjia
+ERR: 1062:Duplicate entry '华硕G75' for key 'goods_name'
+ [ SQL语句 ] : INSERT INTO `sp_goods` (`goods_name`,`goods_price`,`goods_number`,`goods_weight`,`goods_introduce`,`upd_time`,`add_time`,`goods_big_logo`,`goods_small_logo`) VALUES ('华硕G75','9999','10','50','','1464514322','1464514322','./Public/IMG/2016-05-29/574ab712cfee1.gif','./Public/IMG/2016-05-29/s_574ab712cfee1.gif')
+
+[ 2016-05-29T17:33:07+08:00 ] 127.0.0.1 /index.php/Admin/Goods/tianjia
+ERR: 1062:Duplicate entry '华硕G75' for key 'goods_name'
+ [ SQL语句 ] : INSERT INTO `sp_goods` (`goods_name`,`goods_price`,`goods_number`,`goods_weight`,`goods_introduce`,`upd_time`,`add_time`,`goods_big_logo`,`goods_small_logo`) VALUES ('华硕G75','9999','10','50','','1464514386','1464514386','./Public/IMG/2016-05-29/574ab752a7387.gif','./Public/IMG/2016-05-29/s_574ab752a7387.gif')
+
+[ 2016-05-29T19:49:44+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000185s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022596s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023267s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000528s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000610s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001008s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001104s ]
+
+[ 2016-05-29T19:49:44+08:00 ] 127.0.0.1 /index.php/Admin/Index/center.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000116s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000353s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047310s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048115s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002283s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002445s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001038s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001199s ]
+
+[ 2016-05-29T19:49:45+08:00 ] 127.0.0.1 /index.php/Admin/Index/top.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000128s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000258s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032763s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034086s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000581s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000712s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001133s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001272s ]
+
+[ 2016-05-29T19:49:45+08:00 ] 127.0.0.1 /index.php/Admin/Index/down.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000111s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000283s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.061015s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062142s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000773s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000916s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001168s ]
+
+[ 2016-05-29T20:07:12+08:00 ] 127.0.0.1 /index.php/Admin/Goods/tianjia.html
+ERR: 1264:Out of range value for column 'goods_number' at row 1
+ [ SQL语句 ] : INSERT INTO `sp_goods` (`goods_name`,`goods_price`,`goods_number`,`goods_weight`,`goods_introduce`,`upd_time`,`add_time`,`goods_big_logo`,`goods_small_logo`) VALUES ('大大鲸鱼','100','6000','122','','1464523631','1464523631','./Public/IMG/2016-05-29/574adb6fc8960.jpg','./Public/IMG/2016-05-29/s_574adb6fc8960.jpg')
+
+[ 2016-05-29T20:13:31+08:00 ] 127.0.0.1 /index.php/Admin/Goods/tianjia
+ERR: 1062:Duplicate entry 'AKG' for key 'goods_name'
+ [ SQL语句 ] : INSERT INTO `sp_goods` (`goods_name`,`goods_price`,`goods_number`,`goods_weight`,`goods_introduce`,`upd_time`,`add_time`,`goods_big_logo`,`goods_small_logo`) VALUES ('AKG','1200','1','12','','1464524011','1464524011','./Public/IMG/2016-05-29/574adceb213d6.jpg','./Public/IMG/2016-05-29/s_574adceb213d6.jpg')
+
+[ 2016-05-29T20:18:15+08:00 ] 127.0.0.1 /index.php/Admin/Goods/tianjia
+ERR: 1062:Duplicate entry '索尼耳机' for key 'goods_name'
+ [ SQL语句 ] : INSERT INTO `sp_goods` (`goods_name`,`goods_price`,`goods_number`,`goods_weight`,`goods_introduce`,`upd_time`,`add_time`,`goods_big_logo`,`goods_small_logo`) VALUES ('索尼耳机','1299','1','12','','1464524295','1464524295','./Public/IMG/2016-05-29/574ade0776186.jpg','./Public/IMG/2016-05-29/s_574ade0776186.jpg')
+
+[ 2016-05-29T20:27:28+08:00 ] 127.0.0.1 /index.php/Admin/Goods/tianjia
+ERR: 1062:Duplicate entry '大锦鲤' for key 'goods_name'
+ [ SQL语句 ] : INSERT INTO `sp_goods` (`goods_name`,`goods_price`,`goods_number`,`goods_weight`,`goods_introduce`,`upd_time`,`add_time`,`goods_big_logo`,`goods_small_logo`) VALUES ('大锦鲤','1999','1','450','','1464524848','1464524848','./Public/IMG/2016-05-29/574ae030b517c.jpg','./Public/IMG/2016-05-29/s_574ae030b517c.jpg')
+
+[ 2016-05-29T23:26:44+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000178s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040873s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041804s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000608s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000699s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000934s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001029s ]
+
+[ 2016-05-29T23:26:44+08:00 ] 127.0.0.1 /index.php/Admin/Index/center.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000115s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000284s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025099s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025740s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000708s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000845s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001273s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001424s ]
+
+[ 2016-05-29T23:26:44+08:00 ] 127.0.0.1 /index.php/Admin/Index/top.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000215s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030968s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031528s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000544s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000630s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000766s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000851s ]
+
+[ 2016-05-29T23:26:44+08:00 ] 127.0.0.1 /index.php/Admin/Index/down.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000191s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028431s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029350s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000532s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000623s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000934s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001027s ]
+

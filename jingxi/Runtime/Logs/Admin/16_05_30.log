@@ -1,0 +1,230 @@
+[ 2016-05-30T17:26:30+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000181s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022579s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023565s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000857s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000951s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001064s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001161s ]
+
+[ 2016-05-30T17:26:38+08:00 ] 127.0.0.1 /index.php/Admin/Index/top.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000294s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000518s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.099176s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.099887s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000659s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000805s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001309s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001667s ]
+
+[ 2016-05-30T17:26:38+08:00 ] 127.0.0.1 /index.php/Admin/Index/center.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000116s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000322s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.087905s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.089132s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001016s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001182s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001658s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001835s ]
+
+[ 2016-05-30T17:26:38+08:00 ] 127.0.0.1 /index.php/Admin/Index/down.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000199s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.342547s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.343427s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000546s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000638s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001057s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001158s ]
+
+[ 2016-05-30T17:42:47+08:00 ] 127.0.0.1 /index.php/Admin/Goods/tianjia
+ERR: 不存在的图像文件
+
+[ 2016-05-30T17:43:28+08:00 ] 127.0.0.1 /index.php/Admin/Goods/tianjia
+ERR: 1062:Duplicate entry '大米米' for key 'goods_name'
+ [ SQL语句 ] : INSERT INTO `sp_goods` (`goods_name`,`goods_price`,`goods_number`,`goods_weight`,`goods_introduce`,`upd_time`,`add_time`,`goods_big_logo`,`goods_small_logo`) VALUES ('大米米','13','1','150','','1464601407','1464601407','./Public/IMG/2016-05-30/574c0b3fe2aad.jpg','./Public/IMG/2016-05-30/s_574c0b3fe2aad.jpg')
+
+[ 2016-05-30T17:43:50+08:00 ] 127.0.0.1 /index.php/Admin/Goods/tianjia
+ERR: 不存在的图像文件
+
+[ 2016-05-30T17:44:21+08:00 ] 127.0.0.1 /index.php/Admin/Goods/tianjia
+ERR: 不存在的图像文件
+
+[ 2016-05-30T17:46:54+08:00 ] 127.0.0.1 /index.php/Admin/Goods/tianjia
+ERR: 1264:Out of range value for column 'goods_number' at row 1
+ [ SQL语句 ] : INSERT INTO `sp_goods` (`goods_name`,`goods_price`,`goods_number`,`goods_weight`,`goods_introduce`,`upd_time`,`add_time`,`goods_big_logo`,`goods_small_logo`) VALUES ('哈哈哈','123','332','13','','1464601614','1464601614','./Public/IMG/2016-05-30/574c0c0e0bba3.gif','./Public/IMG/2016-05-30/s_574c0c0e0bba3.gif')
+
+[ 2016-05-30T20:02:09+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000181s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030192s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031172s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000974s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001301s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001929s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002101s ]
+
+[ 2016-05-30T20:02:10+08:00 ] 127.0.0.1 /index.php/Admin/Index/top.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000144s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000280s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031285s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032031s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000960s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001083s ]
+
+[ 2016-05-30T20:02:10+08:00 ] 127.0.0.1 /index.php/Admin/Index/center.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000184s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048877s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050498s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000582s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000866s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000951s ]
+
+[ 2016-05-30T20:02:10+08:00 ] 127.0.0.1 /index.php/Admin/Index/down.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000215s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.059115s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.060061s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000608s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000716s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000876s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000963s ]
+
+[ 2016-05-30T20:43:42+08:00 ] 127.0.0.1 /index.php/Admin/Goods/update/goods_id/66.html
+ERR: 1364:Field 'add_time' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sp_goods` (`goods_id`,`goods_name`,`goods_price`,`goods_number`,`goods_weight`,`goods_introduce`,`upd_time`,`goods_big_logo`,`goods_small_logo`) VALUES ('66','联想thinkpad','5999.00','1','16',' ','1464612203','./Public/IMG/2016-05-30/574c356bcce09.jpg','./Public/IMG/2016-05-30/s_574c356bcce09.jpg')
+
+[ 2016-05-30T21:01:35+08:00 ] 127.0.0.1 /index.php/Admin/Goods/removePics.html?pics_id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001788s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002739s ]
+SQL: SHOW COLUMNS FROM `sp_goods_pics` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `sp_goods_pics` WHERE `id` = 5 LIMIT 1   [ RunTime:0.0008s ]
+SQL: DELETE FROM `sp_goods_pics` WHERE `id` = 5 [ RunTime:0.1429s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002068s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002269s ]
+
+[ 2016-05-30T21:02:04+08:00 ] 127.0.0.1 /index.php/Admin/Goods/update/goods_id/66.html
+ERR: 1364:Field 'add_time' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sp_goods` (`goods_id`,`goods_name`,`goods_price`,`goods_number`,`goods_weight`,`goods_introduce`,`upd_time`,`goods_big_logo`,`goods_small_logo`) VALUES ('66','联想thinkpad','5999.00','1','14',' ','1464613314','./Public/IMG/2016-05-30/574c39c238f83.gif','./Public/IMG/2016-05-30/s_574c39c238f83.gif')
+
+[ 2016-05-30T21:02:24+08:00 ] 127.0.0.1 /index.php/Admin/Goods/update/goods_id/66.html
+ERR: 1364:Field 'add_time' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sp_goods` (`goods_id`,`goods_name`,`goods_price`,`goods_number`,`goods_weight`,`goods_introduce`,`upd_time`,`goods_big_logo`,`goods_small_logo`) VALUES ('66','联想thinkpad','5999.00','1','14',' ','1464613333','./Public/IMG/2016-05-30/574c39d5ab99e.gif','./Public/IMG/2016-05-30/s_574c39d5ab99e.gif')
+
+[ 2016-05-30T21:02:48+08:00 ] 127.0.0.1 /index.php/Admin/Goods/update/goods_id/66.html
+ERR: 1364:Field 'add_time' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `sp_goods` (`goods_id`,`goods_name`,`goods_price`,`goods_number`,`goods_weight`,`goods_introduce`,`upd_time`,`goods_big_logo`,`goods_small_logo`) VALUES ('66','联想thinkpad','5999.00','1','14',' ','1464613358','./Public/IMG/2016-05-30/574c39ee572f1.gif','./Public/IMG/2016-05-30/s_574c39ee572f1.gif')
+
+[ 2016-05-30T21:19:26+08:00 ] 127.0.0.1 /index.php/Admin/Goods/update
+ERR: 1062:Duplicate entry '66' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `sp_goods` (`goods_id`,`goods_name`,`goods_price`,`goods_number`,`goods_weight`,`goods_introduce`,`upd_time`,`goods_big_logo`,`goods_small_logo`) VALUES ('66','联想thinkpad','5999.00','1','14',' ','1464614356','./Public/IMG/2016-05-30/574c3dd4843bc.gif','./Public/IMG/2016-05-30/s_574c3dd4843bc.gif')
+
+[ 2016-05-30T22:21:31+08:00 ] 127.0.0.1 /index.php/Admin/Index/top.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000325s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.148582s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.181162s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.011310s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011421s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002063s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002160s ]
+
+[ 2016-05-30T22:26:00+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000108s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000245s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037704s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038632s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000547s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000632s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000915s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001027s ]
+
+[ 2016-05-30T22:26:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/top.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000162s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000331s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019288s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019942s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000585s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000721s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001105s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001247s ]
+
+[ 2016-05-30T22:26:03+08:00 ] 127.0.0.1 /index.php/Admin/Index/center.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000118s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000319s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.087447s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.088283s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000887s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001038s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001746s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001928s ]
+
+[ 2016-05-30T22:26:04+08:00 ] 127.0.0.1 /index.php/Admin/Index/down.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000117s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000304s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038884s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043179s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001105s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001246s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001568s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001722s ]
+

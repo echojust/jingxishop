@@ -1,0 +1,18 @@
+[ 2016-06-01T17:52:17+08:00 ] 127.0.0.1 /index.php/Home/User/register
+ERR: 模板不存在:G:/example/jingxi/Home/View/User/register.html
+
+[ 2016-06-01T17:53:11+08:00 ] 127.0.0.1 /index.php/Home/User/style/base.css
+ERR: 非法操作:style
+
+[ 2016-06-01T17:53:11+08:00 ] 127.0.0.1 /index.php/Home/User/style/header.css
+ERR: 非法操作:style
+
+[ 2016-06-01T17:53:11+08:00 ] 127.0.0.1 /index.php/Home/User/style/footer.css
+ERR: 非法操作:style
+
+[ 2016-06-01T17:53:11+08:00 ] 127.0.0.1 /index.php/Home/User/style/global.css
+ERR: 非法操作:style
+
+[ 2016-06-01T17:53:11+08:00 ] 127.0.0.1 /index.php/Home/User/style/login.css
+ERR: 非法操作:style
+
